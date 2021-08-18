@@ -374,7 +374,7 @@ std::vector<xmrig::Algorithm> xmrig::Algorithm::all(const std::function<bool(con
         CN_PICO_0, CN_PICO_TLO,
         CN_UPX2,
         CN_GPU, RX_XLA,
-        RX_0, RX_WOW, RX_ARQ, RX_SFX, RX_KEVA,
+        RX_0, RX_WOW, RX_ARQ, RX_SFX, RX_KEVA, RX_GRAFT,
         AR2_CHUKWA, AR2_CHUKWA_V2, AR2_WRKZ,
         ASTROBWT_DERO,
         KAWPOW_RVN
