@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "YOUR_WALLET_ADDRESS_HERE",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
